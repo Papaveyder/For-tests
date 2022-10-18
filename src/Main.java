@@ -5,7 +5,7 @@ public class Main {
 
     static void start () {
 
-        System.out.println ("Hello! There are 4 judges giving their scores!: \nPlease Enter score here from 1 to 10 ->> ");
+        System.out.println ("Hello! There are 4 judges giving their scores!: \nPlease Enter score here from 1 to 10 ->>> ");
 
 
 
